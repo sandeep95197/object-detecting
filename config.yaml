@@ -1,0 +1,9 @@
+path: E:\Drone\data\images\
+train: train/
+val: val/
+
+#class
+names:
+  0: helicoptor
+
+nc: 1
